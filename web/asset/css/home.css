@@ -1,0 +1,28 @@
+.product{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.thumbnail{
+    border: none;
+    border-radius: 2px;
+}
+.product img{
+    max-height: 270px;
+    overflow: hidden;
+}
+
+.product h4{
+    height: 50px;
+    overflow: hidden;
+}
+
+#sum_product{
+    display: none;
+}
+
+#cart_action{
+    display: none;
+}
+
+.panel{
+    border-radius: 2px;
+}
